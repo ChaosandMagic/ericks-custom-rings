@@ -14,6 +14,5 @@
   "scripts": [
     "scripts/ring-initialize.js"
   ],
-  "description": "Estos son mis anillos para mis campañas: - Extinction Curse, Dead Suns y Attack of the Swarm",
-  "manifest": "https://github.com/ChaosandMagic/erick-dynamic-rings/blob/master/module.json"
+  "description": "Estos son mis anillos para mis campañas: - Extinction Curse, Dead Suns y Attack of the Swarm"
 }
