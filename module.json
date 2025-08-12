@@ -1,0 +1,19 @@
+{
+  "id": "ericks-custom-rings",
+  "title": "Erick's Custom rings",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Erick Barrera",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "description": ""
+}
