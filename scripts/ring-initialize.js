@@ -3,6 +3,7 @@
 Hooks.on("initializeDynamicTokenRingConfig", (ringConfig) => {
 
   const dynamicRings = [
+    "aot-swarm",
     "dead-suns",
     "extinction-curse"
   ];

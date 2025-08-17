@@ -15,6 +15,7 @@
   "scripts": [
     "scripts/ring-initialize.js"
   ],
-  "manifest": "https://github.com/ChaosandMagic/ericks-custom-rings/blob/master/module.json",
-  "download": "https://github.com/ChaosandMagic/ericks-custom-rings/archive/refs/tags/fix101.zip"
+  "manifest": "https://raw.githubusercontent.com/ChaosandMagic/ericks-custom-rings/refs/heads/master/module.json",
+  "download": "https://github.com/ChaosandMagic/ericks-custom-rings/archive/refs/tags/v1.0.2.zip"
+  
 }
