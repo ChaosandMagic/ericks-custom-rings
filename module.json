@@ -2,7 +2,7 @@
   "id": "ericks-custom-rings",
   "title": "Erick's Custom rings",
   "description": "Estos son mis anillos para mis campañas: - Extinction Curse, Dead Suns y Attack of the Swarm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
@@ -16,6 +16,6 @@
     "scripts/ring-initialize.js"
   ],
   "manifest": "https://raw.githubusercontent.com/ChaosandMagic/ericks-custom-rings/refs/heads/master/module.json",
-  "download": "https://github.com/ChaosandMagic/ericks-custom-rings/archive/refs/tags/v1.0.3.zip"
+  "download": "https://github.com/ChaosandMagic/ericks-custom-rings/archive/refs/tags/v1.0.4.zip"
   
 }
